@@ -4,7 +4,7 @@ import random
 import string
 import sys
 
-#-----------------------------------------------------------------------
+#---------------------------------------------------------------------
 
 class HospitalManagementSystem:
     def __init__(self):
