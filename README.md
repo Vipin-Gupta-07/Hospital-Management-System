@@ -9,7 +9,7 @@ A fully modern, responsive, and secure Hospital Management System built with a *
   - Track real-time statistics (total patients, total doctors, active room occupancies).
   - Register new doctor, patient, or admin accounts.
   - Dynamically assign doctors to patients.
-  - Delete user accounts.
+  - Delete user account.
   - View partner hospital details.
 - **Doctor Portal**:
   - Manage and view profiles of all assigned and general patients.
