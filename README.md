@@ -22,7 +22,7 @@ A fully modern, responsive, and secure Hospital Management System built with a *
   - Read diagnostic and lab reports instantly.
   - Monitor upcoming scheduled consultations.
 
----
+--------
 
 ## Getting Started
 
