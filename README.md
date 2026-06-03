@@ -1,4 +1,4 @@
-# Modern Hospital Management System
+# Modern Hospital Management System.
 
 A fully modern, responsive, and secure Hospital Management System built with a **FastAPI** backend (SQLite database) and a **React (Vite)** frontend.
 
