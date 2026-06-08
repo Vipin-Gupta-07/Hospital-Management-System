@@ -78,7 +78,7 @@ Ensure you have the following installed on your system:
    ```
    The frontend will run on `http://localhost:5173`. Open this URL in your web browser.
 
----
+-----
 
 ## Technology Stack
 
