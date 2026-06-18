@@ -32,7 +32,7 @@ Ensure you have the following installed on your system:
 - **Python** (version 3.8 or higher)
 - **Node.js** (version 16 or higher) & **npm**
 
-----------------
+------------------
 
 ### Backend Setup
 
